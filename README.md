@@ -3,7 +3,7 @@
 
 **Welcome to my profile**
 
-Here are some ideas to get you started:
+Here are some ideas to get to know me:
 
 - 🔭 I’m currently working on PHP,Laravel,Javascript
 - 🌱 I’m currently learning Mobile Application Development using Dart, Flutter
