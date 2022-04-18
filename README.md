@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nahid Hasan Limon</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Data Structure, Docker,**
+- 🌱 I’m currently learning **Data Structure, Docker, Node**
 
 - 📝 I regularly write articles on [https://nahidhasanlimon.medium.com/](https://nahidhasanlimon.medium.com/)
 
-- 💬 Ask me about **PHP, Laravel, Vue**
+- 💬 Ask me about **PHP, Laravel, Vue, Node**
 
 - 📫 How to reach me **nh.limon2010@gmail.com**
 
